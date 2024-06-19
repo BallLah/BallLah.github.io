@@ -16,6 +16,7 @@ We may use the information we collect from you for various purposes, including b
 
 Providing and maintaining our application.
 Personalizing your experience.
+Application functionalities.
 Sending you marketing communications.
 Analyzing usage of the application to improve our services.
 Disclosure of Information
@@ -25,6 +26,7 @@ We may share your information with third parties for various purposes, including
 Service providers who assist us in operating our application or conducting our business.
 Law enforcement, government officials, or other third parties when we are compelled to do so by a subpoena, court order, or similar legal procedure.
 Third parties as required to comply with any applicable laws and regulations.
+
 Data Retention
 
 We will retain your information for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
@@ -35,7 +37,7 @@ This application is hosted using Adalo. Adalo manages user data in accordance wi
 
 Location Data
 
-This application collects the precise location data of the user for the purposes of recommending basketball courts that are a nearby. The distance is also used a check for checking in to prevent users from remotely checking into basketball courts, in order to improve fidelity of court usage numbers.
+This application collects precise location data of the user for the purposes of recommending basketball courts that are nearby. The location data is also used to calculate distances from basketball courts as a checking in criteria to prevent users from remotely checking into basketball courts, in order to improve fidelity of court usage numbers.
 
 Security
 
