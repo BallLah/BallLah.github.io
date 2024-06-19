@@ -35,6 +35,10 @@ Adalo Servcies
 
 This application is hosted using Adalo. Adalo manages user data in accordance with their Privacy Policy https://www.adalo.com/privacy-policy and https://help.adalo.com/testing-your-app/publishing-to-the-apple-app-store/privacy-and-app-tracking-transparency.
 
+Personal Data
+
+Personal data such as profile image, gender, age (mandatory), height, and weight are collected on a voluntary basis to create a public profile for all other users to identify you. This data can be amended and deleted at any time through the use of the application.
+
 Location Data
 
 This application collects precise location data of the user for the purposes of recommending basketball courts that are nearby. The location data is also used to calculate distances from basketball courts as a checking in criteria to prevent users from remotely checking into basketball courts, in order to improve fidelity of court usage numbers.
