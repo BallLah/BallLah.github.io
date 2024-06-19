@@ -41,7 +41,7 @@ Personal data such as profile image, gender, age (mandatory), height, and weight
 
 Location Data
 
-This application collects precise location data of the user for the purposes of recommending basketball courts that are nearby. The location data is also used to calculate distances from basketball courts as a checking in criteria to prevent users from remotely checking into basketball courts, in order to improve fidelity of court usage numbers.
+This application collects precise location data of the user for the purposes of recommending basketball courts that are nearby. The location data is also used to calculate distances from basketball courts as a checking in criteria to prevent users from remotely checking into basketball courts, in order to improve fidelity of court usage numbers. Location data is pulled at fixed timing intervals each time a user logs in and browses to the court page. Location data is also refreshed when user click the refresh button next to the check in button.
 
 Security
 
