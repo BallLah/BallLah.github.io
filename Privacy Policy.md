@@ -43,7 +43,7 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [contact email].
+If you have any questions or concerns about this Privacy Policy, please contact us at balllah2024@gmail.com.
 
 13 May 2024
 
