@@ -29,6 +29,10 @@ Data Retention
 
 We will retain your information for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
 
+Adalo Servcies
+
+This application is hosted using Adalo. Adalo manages user data in accordance with their Privacy Policy https://www.adalo.com/privacy-policy and https://help.adalo.com/testing-your-app/publishing-to-the-apple-app-store/privacy-and-app-tracking-transparency.
+
 Security
 
 We take reasonable measures to protect the information we collect from unauthorized access, use, and disclosure. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
