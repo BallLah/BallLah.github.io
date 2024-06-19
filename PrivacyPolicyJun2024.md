@@ -33,6 +33,10 @@ Adalo Servcies
 
 This application is hosted using Adalo. Adalo manages user data in accordance with their Privacy Policy https://www.adalo.com/privacy-policy and https://help.adalo.com/testing-your-app/publishing-to-the-apple-app-store/privacy-and-app-tracking-transparency.
 
+Location Data
+
+This application collects the precise location data of the user for the purposes of recommending basketball courts that are a nearby. The distance is also used a check for checking in to prevent users from remotely checking into basketball courts, in order to improve fidelity of court usage numbers.
+
 Security
 
 We take reasonable measures to protect the information we collect from unauthorized access, use, and disclosure. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
